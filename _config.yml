@@ -1,0 +1,16 @@
+# Site settings
+title: Ahmed Ali Shaikh
+email: ahmedshaikh006@gmail.com
+description: "Bloging for tools and technlogy!"
+baseurl: "/ahmed-blog"
+url: "http://yourdomain.com"
+twitter_username: ahmedshaikh006
+github_username:  ahmedali06
+facebook_username:  personalahmed
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
