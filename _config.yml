@@ -3,10 +3,11 @@ title: Ahmed Ali Shaikh
 email: ahmedshaikh006@gmail.com
 description: "Bloging for tools and technlogy!"
 baseurl: ""
-url: "http://yourdomain.com"
+url: "http://"
 twitter_username: ahmedshaikh006
 github_username:  ahmedali06
 facebook_username:  personalahmed
+linkedin_username: ahmedalisheikh
 
 # Build settings
 markdown: kramdown
